@@ -1,4 +1,4 @@
-NayePankh Volunteer Participation Predictor
+Volunteer Participation Predictor
 
 Technologies:
 - Python
