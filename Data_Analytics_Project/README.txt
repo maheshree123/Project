@@ -1,4 +1,4 @@
-NayePankh Volunteer Analytics Dashboard
+Volunteer Analytics Dashboard
 
 Technologies Used:
 - Python
