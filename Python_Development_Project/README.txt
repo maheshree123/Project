@@ -1,4 +1,4 @@
-NayePankh Foundation Volunteer Management System
+Volunteer Management System
 
 Technologies:
 - Python
